@@ -1,4 +1,4 @@
-package com.evntoapp.eventoapp;
+package com.eventoapp.eventoapp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
